@@ -1,6 +1,7 @@
 # personal-expense-tracker
 
-Project Overview
+Project Overview:
+
 The Personal Expense Tracker is a RESTful API designed for managing personal financial records. Users can record their income and expenses, retrieve past transactions, and obtain summaries by category or time period. This API provides a simple interface for tracking financial data, making it easier to manage personal finances effectively.
 
 Features:
@@ -34,5 +35,12 @@ Start the server by running:
 By default, the API will be accessible at http://localhost:3000/api
 
 Screenshots:
+![Add Transaction](https://github.com/AkhilNimmathota/personal-expense-tracker/blob/main/screenshots/postapi.png)
+![Get All Transactions](https://github.com/AkhilNimmathota/personal-expense-tracker/blob/main/screenshots/getapi.png)
+![Get Transaction by ID](https://github.com/AkhilNimmathota/personal-expense-tracker/blob/main/screenshots/getbyid.png)
+![Update Transaction](https://github.com/AkhilNimmathota/personal-expense-tracker/blob/main/screenshots/putapi.png)
+![Delete Transaction](https://github.com/AkhilNimmathota/personal-expense-tracker/blob/main/screenshots/deleteapi.png)
+![Get Summary](https://github.com/AkhilNimmathota/personal-expense-tracker/blob/main/screenshots/summaryreport.png)
+
 
 
